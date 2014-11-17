@@ -27,4 +27,6 @@ Map {
 
 publish the map with Tilemill to your MapBox account then [follow this procedure](https://github.com/jonahadkins/Custom-Basemaps-In-AGOL) to make it a basemap in AGOL
 
+Alternatively use the [images](https://github.com/jonahadkins/basemaps-for-cats/tree/master/images) folder to experiment on your own cats.
+
 Enjoy Your Cats!
