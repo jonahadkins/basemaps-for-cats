@@ -2,7 +2,7 @@ basemaps-for-cats
 =================
  Use Natural Earth `10m-admin-0-countries` layer and the following cartocss in Tilemill:
 
-
+```
 Map {
  background-image: url("images/white.jpg");
 }
@@ -23,3 +23,8 @@ Map {
   [MAP_COLOR = 0 ]{ polygon-pattern-file: url("images/black.jpg");}
 
   }
+```
+
+publish the map with Tilemill to your MapBox account then [follow this procedure](https://github.com/jonahadkins/Custom-Basemaps-In-AGOL) to make it a basemap in AGOL
+
+Enjoy Your Cats!
